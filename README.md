@@ -67,7 +67,7 @@ Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. 
 * Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
 * Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
 
-## Quando criar uma Issue?
+## Quando criar uma Pergunta/Discussão?
 
 ### Dúvidas
 
@@ -84,15 +84,42 @@ Lembre-se de pesquisar bastante antes de abrir uma issue, existem boas chances d
 
 ### Discussões
 
-Discussões são sempre bem-vindas, ao formular uma issue, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
+Discussões são sempre bem-vindas, ao formular uma discussão, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
 
 ### Ferramentas
 
-Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica.
+Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica. Existe uma categoria só para [dicas assim](https://github.com/frontendbr/forum/discussions?discussions_q=category%3ADicas).
 
 ### Geral
 
-Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema. Desde que ele trate sobre Programação estaremos dispostos a discutir e ajudar.
+Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema. Desde que ele trate sobre Front-End estaremos dispostos a discutir e ajudar. E você pode abrir com a [categoria discussão](https://github.com/frontendbr/forum/discussions?discussions_q=category%3ADiscuss%C3%A3o).
+
+## Sua pergunta foi respondida?
+
+Se alguém respondeu sua pergunta corretamente, não deixe de marcar a resposta como respondida. Isso ajuda a filtrar as perguntas, além de dar um ponto para o colega que te ajudou e incentivar que as pessoas se ajudem mais e mais.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frontendbr/forum/main/assets/mark-answer.png" alt="Opção mostrando para marcar a resposta como respondida" />
+</p>
+
+## Como criar sua Pergunta/Discussão?
+
+Na aba **Discussions** basta clicar no botão **New discussion**, na próxima página, basta escolher entre as 4 diferentes categorias.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frontendbr/forum/main/assets/discussion-categories.png" alt="Menu mostrando as categorias" />
+</p>
+
+- **Perguntas e Respostas**: Pergunte e ajude a comunidade! =D
+- **Discussão**: Proponha discussões ou reflexões sobre assuntos relacionados a profissão.
+- **Dicas**: Compartilhe dicas e links interessantes que você achou.
+- **Mostre seu trabalho**: Divulgue seu trabalho, peça feedback e compartilhe sua experiência.
+
+Após selecionar a categoria, basta adicionar um título bem detalhado e caprichar no texto. Lembre-se de seguir [os passos corretos](CONTRIBUTING.md) ao criar uma pergunta/discussão.
+
+### Trechos de código
+
+Para facilitar a visualização de quem vai ler sua pergunta/discussão, coloque seu código no [Codepen](https://codepen.io/) (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
 
 ## Código de Conduta
 
@@ -107,13 +134,32 @@ Comporte-se profissionalmente. Os participantes que violarem tais regras serão 
 ## Linguagem
 
 **Todas** as issues devem ser abertas e respondidas em **pt-br**.
-## Como receber atualizações do Forum
 
-Você pode receber atualizações do Forum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
+## Perguntas frequentes
 
-<p align="center">
-  <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
-</p>
+Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a estudar, nossa sugestão é que você inicie lendo essas issues e logo depois abra uma nova com suas dúvidas:
+
+### Técnicas e metodologias
+
+- [#229](https://github.com/frontendbr/forum/discussions/229) Livros
+- [#480](https://github.com/frontendbr/forum/discussions/480) Como funciona o processo de **Code Review** onde vocês trabalham?
+
+### HTML
+
+- [#38](https://github.com/frontendbr/forum/discussions/38) Referências sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte
+
+### JavaScript
+
+- [#90](https://github.com/frontendbr/forum/discussions/90) Paradigmas de programação com JavaScript
+- [#270](https://github.com/frontendbr/forum/discussions/270) Roadmap sobre por onde ir no JavaScript
+
+
+## Como receber atualizações do Fórum
+
+Você pode receber atualizações do Fórum no seu email ou via notificações do GitHub, basta clicar em **Watch**, em seguida, basta ir em **Custom** e marcar a opção de **Discussions**.
+
+![Menu mostrando como marcar para habilitar opção de assistir notificações](assets/watch.png)
+
 
 ## Licença
 
