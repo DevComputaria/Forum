@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://www.fgf.edu.br/wp-content/themes/fgf-28-05-2013_RESPONSIVO/images/fgf-faculdade-integrada-da-grande-fortaleza.png">
+<img src="https://github.com/DevComputaria/Forum/blob/main/data/78062339.jpg?raw=true">
 </p>
 <h1 align="center">Forum</h1>
 <p align="center">:trollface:  Espaço dedicado a discussões e tira dúvida sobre tecnologia e computaria.</p>
