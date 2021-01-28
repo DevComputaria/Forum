@@ -9,7 +9,7 @@
 _____
 
 <p align="center">
-  <a href="https://github.com/FGF-College-Work/Forum/issues"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
+  <a href="https://github.com/DevComputaria/Forum/issues"><img src="https://github.com/DevComputaria/Forum/blob/main/data/btn.jpg?raw=true" alt="DevComputaria" width="119" /></a>
 </p>
 
 _____
