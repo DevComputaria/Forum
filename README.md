@@ -99,7 +99,7 @@ Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema
 Se alguém respondeu sua pergunta corretamente, não deixe de marcar a resposta como respondida. Isso ajuda a filtrar as perguntas, além de dar um ponto para o colega que te ajudou e incentivar que as pessoas se ajudem mais e mais.
 
 <p align="center">  
-  <img src="https://github.com/DevComputaria/Forum/blob/main/data/mark-answer.png.jpg?raw=true" alt="Opção mostrando para marcar a resposta como respondida" />
+  <img src="https://github.com/DevComputaria/Forum/blob/main/data/mark-answer.jpg?raw=true" alt="Opção mostrando para marcar a resposta como respondida" />
 </p>
 
 ## Como criar sua Pergunta/Discussão?
@@ -107,7 +107,7 @@ Se alguém respondeu sua pergunta corretamente, não deixe de marcar a resposta 
 Na aba **Discussions** basta clicar no botão **New discussion**, na próxima página, basta escolher entre as 4 diferentes categorias.
 
 <p align="center">  
-  <img src="https://github.com/DevComputaria/Forum/blob/main/data/discussion-categories.png.jpg?raw=true" alt="Menu mostrando as categorias" />
+  <img src="https://github.com/DevComputaria/Forum/blob/main/data/discussion-categories.jpg?raw=true" alt="Menu mostrando as categorias" />
 </p>
 
 - **Perguntas e Respostas**: Pergunte e ajude a comunidade! =D
@@ -158,7 +158,9 @@ Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a es
 
 Você pode receber atualizações do Fórum no seu email ou via notificações do GitHub, basta clicar em **Watch**, em seguida, basta ir em **Custom** e marcar a opção de **Discussions**.
 
-![Menu mostrando como marcar para habilitar opção de assistir notificações](assets/watch.png)
+
+
+![Menu mostrando como marcar para habilitar opção de assistir notificações](https://github.com/DevComputaria/Forum/blob/main/data/watch.jpg?raw=true)
 
 ## Referência
 
