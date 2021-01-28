@@ -9,7 +9,7 @@
 _____
 
 <p align="center">
-  <a href="https://github.com/DevComputaria/Forum/issues"><img src="https://github.com/DevComputaria/Forum/blob/main/data/btn.jpg?raw=true" alt="DevComputaria" width="119" /></a>
+  <a href="https://github.com/DevComputaria/Forum/discussions"><img src="https://github.com/DevComputaria/Forum/blob/main/data/btn.jpg?raw=true" alt="DevComputaria" width="119" /></a>
 </p>
 
 _____
@@ -88,26 +88,26 @@ Discussões são sempre bem-vindas, ao formular uma discussão, tente ser o mais
 
 ### Ferramentas
 
-Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica. Existe uma categoria só para [dicas assim](https://github.com/frontendbr/forum/discussions?discussions_q=category%3ADicas).
+Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica. Existe uma categoria só para [dicas assim](https://github.com/DevComputaria/Forum/discussions?discussions_q=category%3ADicas).
 
 ### Geral
 
-Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema. Desde que ele trate sobre Front-End estaremos dispostos a discutir e ajudar. E você pode abrir com a [categoria discussão](https://github.com/frontendbr/forum/discussions?discussions_q=category%3ADiscuss%C3%A3o).
+Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema. Desde que ele trate sobre Front-End estaremos dispostos a discutir e ajudar. E você pode abrir com a [categoria discussão](https://github.com/DevComputaria/Forum/discussions?discussions_q=category%3ADiscuss%C3%A3o).
 
 ## Sua pergunta foi respondida?
 
 Se alguém respondeu sua pergunta corretamente, não deixe de marcar a resposta como respondida. Isso ajuda a filtrar as perguntas, além de dar um ponto para o colega que te ajudou e incentivar que as pessoas se ajudem mais e mais.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/frontendbr/forum/main/assets/mark-answer.png" alt="Opção mostrando para marcar a resposta como respondida" />
+<p align="center">  
+  <img src="https://github.com/DevComputaria/Forum/blob/main/data/mark-answer.png.jpg?raw=true" alt="Opção mostrando para marcar a resposta como respondida" />
 </p>
 
 ## Como criar sua Pergunta/Discussão?
 
 Na aba **Discussions** basta clicar no botão **New discussion**, na próxima página, basta escolher entre as 4 diferentes categorias.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/frontendbr/forum/main/assets/discussion-categories.png" alt="Menu mostrando as categorias" />
+<p align="center">  
+  <img src="https://github.com/DevComputaria/Forum/blob/main/data/discussion-categories.png.jpg?raw=true" alt="Menu mostrando as categorias" />
 </p>
 
 - **Perguntas e Respostas**: Pergunte e ajude a comunidade! =D
@@ -159,6 +159,10 @@ Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a es
 Você pode receber atualizações do Fórum no seu email ou via notificações do GitHub, basta clicar em **Watch**, em seguida, basta ir em **Custom** e marcar a opção de **Discussions**.
 
 ![Menu mostrando como marcar para habilitar opção de assistir notificações](assets/watch.png)
+
+## Referência
+
+[comunidade FronEndBR](https://github.com/frontendbr/forum)
 
 
 ## Licença
